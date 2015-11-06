@@ -1,0 +1,28 @@
+{
+  "name": "pubnub-angular",
+  "version": "1.0.0",
+  "description": "Fork of official pubnub-angular repo w/ some fixes",
+  "main": "lib/pubnub-angular.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianhenderson/pubnub-angular.git"
+  },
+  "keywords": [
+    "pubnub",
+    "angular",
+    "pubnub-angular",
+    "PubNub"
+  ],
+  "author": "Ian Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianhenderson/pubnub-angular/issues"
+  },
+  "homepage": "https://github.com/ianhenderson/pubnub-angular#readme"
+}
