@@ -1,6 +1,6 @@
 {
   "name": "pubnub-angular",
-  "version": "1.0.0",
+  "version": "1.2.0-beta.4",
   "description": "Fork of official pubnub-angular repo w/ some fixes",
   "main": "lib/pubnub-angular.js",
   "directories": {
